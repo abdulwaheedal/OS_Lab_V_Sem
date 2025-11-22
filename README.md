@@ -1,6 +1,7 @@
 # 🧠 Operating Systems Lab (V Semester)
 
 **Developer:** Abdul Waheed Al Faaiz
+
 **Course:** Operating Systems Laboratory (V Sem)
 **Language:** Python 3
 **Platform:** Linux / Ubuntu / WSL / Kali Linux
