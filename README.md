@@ -1,9 +1,7 @@
 # 🧠 Operating Systems Lab (V Semester)
 
-**Developer:** Abdul Waheed Al Faaiz
-
-**Course:** Operating Systems Laboratory (V Sem)
 **Language:** Python 3
+
 **Platform:** Linux / Ubuntu / WSL / Kali Linux
 
 ---
@@ -289,7 +287,9 @@ Virtual Machine Detected
 ## 🧑‍💻 Developer
 
 **Name:** Abdul Waheed Al Faaiz
+
 **Course:** B.Tech – Computer Science (V Semester)
+
 **Subject:** Operating Systems Laboratory
 
 ---
